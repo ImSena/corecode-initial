@@ -1,2 +1,0 @@
-# corecode-initial
-Página inicial
